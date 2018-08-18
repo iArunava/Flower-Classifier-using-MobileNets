@@ -1,13 +1,6 @@
 # The following code is taken from https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/label_image/label_image.py 
 # and is modified to the needs of the project
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
-import argparse
-import sys
-
 import numpy as np
 import tensorflow as tf
 
