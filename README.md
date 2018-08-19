@@ -23,7 +23,7 @@ python3 init.py
 ```
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AzmCYs5fAn0/0.jpg)](https://www.youtube.com/watch?v=AzmCYs5fAn0)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/26242097/44311855-4771c000-a40c-11e8-88f3-e2075cbd8bde.png)](https://www.youtube.com/watch?v=AzmCYs5fAn0)
 
 
 ## LICENSE
