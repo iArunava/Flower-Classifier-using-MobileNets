@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(0, './scripts/')
-
 import cv2 as cv
 from label_image import *
 
